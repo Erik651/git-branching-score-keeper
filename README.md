@@ -59,7 +59,7 @@ The client finally got back to us with answers to our questions. We can now make
 
 ![Step 1](/images/1_create_pr.png)
 
-#### Step 2 :3
+#### Step 2 !!!!!
 
 ![Step 2](/images/2_select_branch.png)
 
